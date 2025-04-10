@@ -110,7 +110,7 @@ color: var(--white);
 cursor: pointer;
 }
 .order-button:hover,
-.oreder-button:focus{
+.order-button:focus{
 color: var(--white);
 background-color: #404BBF;
 
