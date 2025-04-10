@@ -111,7 +111,8 @@ cursor: pointer;
 }
 .order-button:hover,
 .oreder-button:focus{
-background: var(--ocean);
+
+background-color: var(--ocean);
 
 
 }
