@@ -59,21 +59,10 @@ text-align: center;
 color: var(--white);
 }
 .order-button{
-    
-    border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: var(--iris);
 }
 .order-button:hover,
 .oreder-button:focus{
-    border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: var(--ocean);
 }
 .our-team{
@@ -99,3 +88,14 @@ letter-spacing: 0.02em;
 text-align: center;
 color: var(--navy-blue);
 }
+.footer-back{
+height: 312px;
+background-color: var(--navy-blue);
+}
+.final-text{font-weight: 400;
+    font-size: 16px;
+    
+    /* line-height: 24px; */ 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--cloud);}
