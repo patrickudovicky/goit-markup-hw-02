@@ -91,7 +91,6 @@ color: var(--slate);}
     font-family: var(--font-family);
     font-weight: 700;
 font-size: 56px;
-
 /* line-height: 60px; */ 
 line-height: 1.07;
 letter-spacing: 0.02em;
@@ -118,16 +117,7 @@ background: var(--ocean);
     background-color: var(--cloud);
 }
 
-.core-skills{
-    font-weight: 400;
-font-size: 16px;
-
-/* line-height: 24px; */ 
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: var(--slate);
-}
-h2{
+.title-advantages{
     font-weight: 700;
 font-size: 36px;
 
@@ -137,6 +127,17 @@ letter-spacing: 0.02em;
 text-align: center;
 color: var(--navy-blue);
 }
+
+.core-skills{
+    font-weight: 400;
+font-size: 16px;
+
+/* line-height: 24px; */ 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: var(--slate);
+}
+
 .footer-back{
 height: 312px;
 background-color: var(--navy-blue);
