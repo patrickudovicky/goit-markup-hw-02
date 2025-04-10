@@ -154,7 +154,6 @@ color: var(--slate);
 }
 
 .footer-back{
-height: 312px;
 background-color: var(--navy-blue);
 }
 .final-text{font-weight: 400;
@@ -166,5 +165,5 @@ background-color: var(--navy-blue);
     color: var(--cloud);}
 
  .back{
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
  }
