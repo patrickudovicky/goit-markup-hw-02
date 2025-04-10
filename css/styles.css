@@ -112,6 +112,8 @@ cursor: pointer;
 .order-button:hover,
 .oreder-button:focus{
 background: var(--ocean);
+
+
 }
 .our-team{
     background-color: var(--cloud);
@@ -122,13 +124,24 @@ background: var(--ocean);
 font-size: 36px;
 
 /* line-height: 40px; */ 
-line-height: 1.11111;
+line-height: 1.12;
 letter-spacing: 0.02em;
 text-align: center;
 color: var(--navy-blue);
 }
 
-.core-skills{
+
+.title-points{
+    font-weight: 500;
+font-size: 20px;
+
+/* line-height: 24px; */ 
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: var(--navy-blue);
+}
+
+.description-skills{
     font-weight: 400;
 font-size: 16px;
 
