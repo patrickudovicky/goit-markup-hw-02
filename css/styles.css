@@ -112,7 +112,7 @@ cursor: pointer;
 .order-button:hover,
 .order-button:focus{
 color: var(--white);
-background-color: #404BBF;
+background: var(--ocean);
 
 }
 .our-team{
