@@ -111,9 +111,8 @@ cursor: pointer;
 }
 .order-button:hover,
 .oreder-button:focus{
-
+color: var(--white);
 background-color: var(--ocean);
-
 
 }
 .our-team{
@@ -166,6 +165,4 @@ background-color: var(--navy-blue);
     letter-spacing: 0.02em;
     color: var(--cloud);}
 
- .img{
-    background-color: #FFFFFF
- }   
+ 
