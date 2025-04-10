@@ -18,6 +18,42 @@
     --second-family: "Raleway", sans-serif;
   }
 
+.logo-white{
+    font-family: var(--second-family);
+    font-weight: 700;
+font-size: 18px;
+
+/* line-height: 21px; */ 
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--cloud);
+}
+
+.logo{
+    font-family: var(--second-family);
+    font-weight: 700;
+font-size: 18px;
+
+/* line-height: 21px; */ 
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--iris);
+  }
+
+.logo-black{
+    font-family: var(--second-family);
+    font-weight: 700;
+font-size: 18px;
+
+/* line-height: 21px; */ 
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--navy-blue);
+  }
+
 .studio-info .link{font-weight: 400;
 font-size: 16px;
 
