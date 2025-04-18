@@ -18,6 +18,14 @@
     --second-family: "Raleway", sans-serif;
   }
 
+  a {
+    text-decoration: none;
+    }
+    
+    ul {
+    list-style: none;
+    }
+
 .logo-white{
     font-family: var(--second-family);
     font-weight: 700;
